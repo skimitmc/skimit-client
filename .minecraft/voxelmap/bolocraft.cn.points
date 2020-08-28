@@ -1,0 +1,9 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:红石音乐,x:-3135,z:559,y:65,enabled:true,red:0.4461931,green:0.83318895,blue:0.12771183,suffix:,world:,dimensions:overworld#
+name:出生点,x:7,z:8,y:7,enabled:true,red:0.023395121,green:0.5049,blue:0.21748501,suffix:,world:,dimensions:overworld#
+name:末地,x:2072,z:-216,y:129,enabled:true,red:0.63642853,green:0.5955096,blue:0.795385,suffix:,world:,dimensions:the_nether#
+name:Latest Death,x:398,z:-10,y:-215,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:the_end#
+name:凋零伪和平,x:-7088,z:-6936,y:128,enabled:true,red:0.73320556,green:0.83330834,blue:0.20734459,suffix:,world:,dimensions:the_nether#
+name:地狱大厅,x:-3000,z:1040,y:74,enabled:true,red:0.3032391,green:0.13327408,blue:0.7981039,suffix:,world:,dimensions:the_nether#
