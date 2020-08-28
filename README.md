@@ -42,6 +42,7 @@
 ### 与[optifine](https://optifine.net)不兼容的mod（默认关闭）
 [动态光源][与optifine不兼容]lambdynamiclights-fabric-1.3.0+1.16.2.jar.disabled  
 [非官方][优化][钠][与optifine不兼容]sodium-fabric-mc1.16.2-0.1.0-stable.jar.disabled  
+[延时摄影]replaymod-1.16.2-2.4.3.jar.disabled  
 ### 优化mod
 [高清修复][依赖optifabric]preview_OptiFine_1.16.2_HD_U_G3_pre6.jar  
 [优化][磷]phosphor-fabric-mc1.16.1-0.6.0+build.7.jar  
@@ -54,7 +55,6 @@
 [地毯]fabric-carpet-1.16.2-1.4.9+v200815.jar  
 [地毯拓展]carpet-extra-1.16.2-1.4.8.jar  
 [小地图]fabricmod_VoxelMap-1.10.10_for_1.16.2.jar  
-[延时摄影]replaymod-1.16.2-2.4.3.jar  
 [急速滚轮]mousewheelie-1.5.3+mc1.16.2-pre1.jar  
 [放大镜,望远镜]WI-Zoom-1.2-MC1.16.2.jar  
 [显示饱和度][苹果皮]appleskin-mc1.16-fabric-1.0.11.jar  
