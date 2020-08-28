@@ -1,23 +1,29 @@
-# Compiled class file
-*.class
+# PCL启动器部分文件
+PCL/log*.txt  
+PCL/Music  
+PCL/Pictures  
 
-# Log file
-*.log
+# 日志文件
+.minecraft/logs/
 
-# BlueJ files
-*.ctxt
+# 崩溃报告
+.minecraft/crash-reports/
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# 存档
+.minecraft/saves/
 
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
+# 被禁用的mod
+.minecraft/mods/*.disabled
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+# 资源文件
+.minecraft/assets/
+
+# 打包好的客户端文件
+skimit*.zip
+
+# 其他东西
+.minecraft/*.png  
+.minecraft/realms_persistence.json  
+.exe可能会被误报病毒，可使用.jar的启动器.txt
+有用的资源的网址.docx
+请先下载安装64位Java 下载地址在此.txt
