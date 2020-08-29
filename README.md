@@ -2,7 +2,7 @@
 [下载](https://github.com/skimitmc/client/archive/master.zip)  
 [skimit服务器](http://skimit.cn/)客户端，整合了大量实用功能  
 当前[Minecraft](https://www.minecraft.net/)版本1.16.2  
-客户端版本1.16.2.1  
+客户端版本1.16.2.2  
 [Fabric](https://fabricmc.net/) Loader版本0.9.2+build.206  
 **不包含资源文件**  
 如果想要更快下载或者包含资源文件，请到[QQ群597691030](https://jq.qq.com/?_wv=1027&k=5GAlEKg)内下载
@@ -38,13 +38,13 @@
 [非官方][优化][钠][与optifine不兼容]sodium-fabric-mc1.16.2-0.1.0-stable.jar.disabled  
 ### [optifine](https://optifine.net)
 [使optifine兼容fabric]optifabric-updated-1.1.0-beta2-1.16.2.jar  
-[高清修复][依赖optifabric]preview_OptiFine_1.16.2_HD_U_G3_pre6.jar  
+[高清修复][依赖optifabric]OptiFine_1.16.2_HD_U_G3.jar  
 ### 与[optifine](https://optifine.net)不兼容的mod（默认关闭）
 [动态光源][与optifine不兼容]lambdynamiclights-fabric-1.3.0+1.16.2.jar.disabled  
 [非官方][优化][钠][与optifine不兼容]sodium-fabric-mc1.16.2-0.1.0-stable.jar.disabled  
 [延时摄影]replaymod-1.16.2-2.4.3.jar.disabled  
 ### 优化mod
-[高清修复][依赖optifabric]preview_OptiFine_1.16.2_HD_U_G3_pre6.jar  
+[高清修复][依赖optifabric]OptiFine_1.16.2_HD_U_G3.jar  
 [优化][磷]phosphor-fabric-mc1.16.1-0.6.0+build.7.jar  
 [优化][锂]lithium-fabric-mc1.16.2-0.5.2.jar  
 [非官方][优化][钠][与optifine不兼容]sodium-fabric-mc1.16.2-0.1.0-stable.jar.disabled  
@@ -59,7 +59,7 @@
 [放大镜,望远镜]WI-Zoom-1.2-MC1.16.2.jar  
 [显示饱和度][苹果皮]appleskin-mc1.16-fabric-1.0.11.jar  
 [更好的PvP]BetterPvP_20.20.3_Fabric_1.16.2.jar  
-[更好的村民交易]easiervillagertrading-1.16.2-fabric0.17.2-1.5.1.jar  
+[更好的村民交易]easiervillagertrading-1.16.2-fabric0.17.2-1.5.2.jar  
 [更好的物品掉落(仅视觉)]betterdroppeditems-1.2.1-1.16.jar  
 [模组设置菜单]modmenu-1.14.6+build.31.jar  
 [点歌][需要服务器配套插件]AllMusic-2.3.0(hotfix).jar  
