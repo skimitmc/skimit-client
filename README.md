@@ -2,7 +2,7 @@
 [下载](https://github.com/skimitmc/client/archive/master.zip)  
 [skimit服务器](http://skimit.cn/)客户端，整合了大量实用功能  
 当前[Minecraft](https://www.minecraft.net/)版本1.16.2  
-客户端版本1.16.2.2  
+客户端版本1.16.2.3  
 [Fabric](https://fabricmc.net/) Loader版本0.9.2+build.206  
 **不包含资源文件**  
 如果想要更快下载或者包含资源文件，请到[QQ群597691030](https://jq.qq.com/?_wv=1027&k=5GAlEKg)内下载
@@ -37,7 +37,7 @@
 [优化][锂]lithium-fabric-mc1.16.2-0.5.2.jar  
 [非官方][优化][钠][与optifine不兼容]sodium-fabric-mc1.16.2-0.1.0-stable.jar.disabled  
 ### [optifine](https://optifine.net)
-[使optifine兼容fabric]optifabric-updated-1.1.0-beta2-1.16.2.jar  
+[使optifine兼容fabric]optifabric-1.4.0.jar  
 [高清修复][依赖optifabric]OptiFine_1.16.2_HD_U_G3.jar  
 ### 与[optifine](https://optifine.net)不兼容的mod（默认关闭）
 [动态光源][与optifine不兼容]lambdynamiclights-fabric-1.3.0+1.16.2.jar.disabled  
