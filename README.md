@@ -1,5 +1,6 @@
 # [skimit服务器](http://skimit.cn/)客户端
-[下载](https://github.com/skimitmc/client/archive/master.zip)  
+[下载（从GitHub）](https://github.com/skimitmc/client/archive/master.zip)  
+[下载（从Gitee，需要登录）](https://gitee.com/skimit/client/repository/archive/master.zip)  
 [skimit服务器](http://skimit.cn/)客户端，整合了大量实用功能  
 当前[Minecraft](https://www.minecraft.net/)版本1.16.3  
 客户端版本1.16.3.0  
