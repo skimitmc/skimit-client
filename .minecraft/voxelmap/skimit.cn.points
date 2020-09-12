@@ -36,7 +36,6 @@ name:海底神殿#3,x:3951,z:1775,y:63,enabled:true,red:0.5794489,green:0.384233
 name:入口,x:3975,z:1777,y:32,enabled:true,red:0.31204528,green:0.07054931,blue:0.19992268,suffix:,world:skimit生存_主世界,dimensions:overworld#
 name:刷冰机,x:-289,z:607,y:97,enabled:true,red:0.22164994,green:0.72532934,blue:0.63742065,suffix:,world:skimit生存_主世界,dimensions:overworld#
 name:末地门#1,x:1361,z:1406,y:29,enabled:true,red:0.77038383,green:0.2667746,blue:0.90788823,suffix:,world:skimit生存_主世界,dimensions:overworld#
-name:要塞#1地上入口,x:1405,z:1410,y:75,enabled:true,red:0.71076435,green:0.74966496,blue:0.19859117,suffix:,world:skimit生存_主世界,dimensions:overworld#
 name:女巫塔,x:243,z:212,y:62,enabled:true,red:0.051290393,green:0.97883886,blue:0.34761184,suffix:,world:skimit生存_主世界,dimensions:overworld#
 name:新刷石机,x:-308,z:379,y:87,enabled:true,red:0.62690866,green:0.8206593,blue:0.08855027,suffix:,world:skimit生存_主世界,dimensions:overworld#
 name:刷怪塔,x:-561,z:1185,y:64,enabled:true,red:0.13730592,green:0.58487767,blue:0.70734835,suffix:,world:skimit生存_主世界,dimensions:overworld#
@@ -59,3 +58,15 @@ name:固化机,x:-363,z:523,y:70,enabled:true,red:0.79081583,green:0.9053242,blu
 name:na2hco3家,x:-37,z:523,y:119,enabled:true,red:0.27163643,green:0.43249822,blue:0.7492528,suffix:,world:skimit生存_主世界,dimensions:overworld#
 name:地铁1-1,x:-734,z:470,y:64,enabled:true,red:0.7382003,green:0.6693319,blue:3.117323E-5,suffix:,world:skimit生存_主世界,dimensions:overworld#
 name:太白家,x:-328,z:616,y:80,enabled:true,red:0.1420728,green:0.53197503,blue:0.13212407,suffix:,world:skimit生存_主世界,dimensions:overworld#
+name:Latest Death,x:4,z:-2,y:70,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:the_end#
+name:na2hco3家入口,x:-104,z:523,y:116,enabled:true,red:0.59616554,green:0.52437097,blue:0.5551287,suffix:,world:skimit生存_主世界,dimensions:overworld#
+name:EDGWA家,x:-872,z:-4,y:80,enabled:true,red:0.558401,green:0.073759556,blue:0.67222226,suffix:,world:skimit生存_主世界,dimensions:overworld#
+name:EDGW家,x:-720,z:384,y:128,enabled:true,red:0.27126968,green:0.8198437,blue:0.46872282,suffix:,world:skimit生存_下界,dimensions:the_nether#
+name:蘑菇岛,x:4825,z:1562,y:63,enabled:true,red:0.5058824,green:0.27058825,blue:0.003921569,suffix:,world:skimit生存_主世界,dimensions:overworld#
+name:林地府邸#1,x:14656,z:9296,y:128,enabled:true,red:0.9958158,green:0.23123348,blue:0.16764987,suffix:,world:skimit生存_下界,dimensions:the_nether#
+name:林地府邸#1,x:14677,z:9274,y:113,enabled:true,red:0.17028224,green:0.1445322,blue:0.89968204,suffix:,world:skimit生存_主世界,dimensions:overworld#
+name:林地府邸#1入口,x:14671,z:9231,y:78,enabled:true,red:0.88791466,green:0.21738404,blue:0.25297368,suffix:,world:skimit生存_主世界,dimensions:overworld#
+name:地狱门1,x:-6400,z:4469,y:40,enabled:true,red:0.7078279,green:0.5220965,blue:0.9776613,suffix:,world:skimit镜像_主世界,dimensions:overworld#
+name:地狱门2,x:-6213,z:4474,y:64,enabled:true,red:0.6637685,green:0.19443333,blue:0.9306567,suffix:,world:skimit镜像_主世界,dimensions:overworld#
+name:地狱门3,x:-6401,z:4325,y:41,enabled:true,red:0.038366377,green:0.15637219,blue:0.025645435,suffix:,world:,dimensions:overworld#
+name:地狱门4,x:-6219,z:4322,y:42,enabled:true,red:0.92536455,green:0.80037963,blue:0.9259645,suffix:,world:skimit镜像_主世界,dimensions:overworld#

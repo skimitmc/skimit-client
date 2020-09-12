@@ -1,9 +1,9 @@
 # [skimit服务器](http://skimit.cn/)客户端
 [下载](https://github.com/skimitmc/client/archive/master.zip)  
 [skimit服务器](http://skimit.cn/)客户端，整合了大量实用功能  
-当前[Minecraft](https://www.minecraft.net/)版本1.16.2  
-客户端版本1.16.2.3  
-[Fabric](https://fabricmc.net/) Loader版本0.9.2+build.206  
+当前[Minecraft](https://www.minecraft.net/)版本1.16.3  
+客户端版本1.16.3.0  
+[Fabric](https://fabricmc.net/) Loader版本0.9.3+build.207  
 **不包含资源文件**  
 如果想要更快下载或者包含资源文件，请到[QQ群597691030](https://jq.qq.com/?_wv=1027&k=5GAlEKg)内下载
 ## 目录
@@ -11,8 +11,8 @@
   - [前置mod](#前置mod)
   - [masa的mod](#masa的mod)
   - [JellySquid的mod](#JellySquid的mod)
-  - [optifine](#optifine)
-  - [与optifine不兼容的mod](#与optifine不兼容的mod（默认关闭）)
+  - [optifine](#optifine（默认关闭）)
+  - [与optifine不兼容的mod](#与optifine不兼容的mod)
   - [优化mod](#优化mod)
 - [资源包列表](#资源包列表)
   - [Faithful的资源包](#Faithful的资源包)
@@ -24,43 +24,43 @@
 - [投影原理图列表](#投影原理图列表)
 ## mod列表（为了更好地整理而有部分重复）
 ### 前置mod
-[前置][API]fabric-api-0.19.0+build.398-1.16.jar  
 [前置]malilib-fabric-1.16.2-0.10.0-dev.21+arne.1.jar  
+[前置][API]fabric-api-0.20.2+build.402-1.16.jar  
 ### [masa的mod](https://masa.dy.fi/mcmods/client_mods/)
 [前置]malilib-fabric-1.16.2-0.10.0-dev.21+arne.1.jar  
-[依赖MaLiLib][多功能实用]tweakeroo-fabric-1.16.2-0.10.0-dev.20200824.034140.jar  
+[依赖MaLiLib][多功能实用]tweakeroo-fabric-1.16.2-0.10.0-dev.20200905.184224.jar  
 [依赖MaLiLib][快速移动物品]itemscroller-fabric-1.16.2-0.15.0-dev.20200824.205318.jar  
 [依赖MaLiLib][投影]litematica-fabric-1.16.2-0.0.0-dev.20200824.031346.jar  
-[依赖MaLiLib][迷你F3]minihud-fabric-1.16.2-0.19.0-dev.20200812.031115.jar  
+[依赖MaLiLib][迷你F3]minihud-fabric-1.16.2-0.19.0-dev.20200829.031650.jar  
 ### [JellySquid](https://github.com/jellysquid3)的mod
 [优化][磷]phosphor-fabric-mc1.16.1-0.6.0+build.7.jar  
 [优化][锂]lithium-fabric-mc1.16.2-0.5.2.jar  
-[非官方][优化][钠][与optifine不兼容]sodium-fabric-mc1.16.2-0.1.0-stable.jar.disabled  
-### [optifine](https://optifine.net)
-[使optifine兼容fabric]optifabric-1.4.0.jar  
-[高清修复][依赖optifabric]OptiFine_1.16.2_HD_U_G3.jar  
-### 与[optifine](https://optifine.net)不兼容的mod（默认关闭）
-[动态光源][与optifine不兼容]lambdynamiclights-fabric-1.3.0+1.16.2.jar.disabled  
-[非官方][优化][钠][与optifine不兼容]sodium-fabric-mc1.16.2-0.1.0-stable.jar.disabled  
-[延时摄影]replaymod-1.16.2-2.4.3.jar.disabled  
+[优化][钠][非官方]sodium-fabric-mc1.16.2-0.1.0-stable.jar  
+### [optifine](https://optifine.net)（默认关闭）
+[使optifine兼容fabric]optifabric-1.5.0.jar.disabled  
+[高清修复][依赖optifabric]preview_OptiFine_1.16.3_HD_U_G3_pre2.jar.disabled  
+### 与[optifine](https://optifine.net)不兼容的mod
+[动态光源][与optifine不兼容]lambdynamiclights-fabric-1.3.0+1.16.2.jar  
+[优化][钠][非官方]sodium-fabric-mc1.16.2-0.1.0-stable.jar  
+[延时摄影]replaymod-1.16.2-2.4.4.jar  
 ### 优化mod
-[高清修复][依赖optifabric]OptiFine_1.16.2_HD_U_G3.jar  
+[高清修复][依赖optifabric]preview_OptiFine_1.16.3_HD_U_G3_pre2.jar.disabled  
 [优化][磷]phosphor-fabric-mc1.16.1-0.6.0+build.7.jar  
-[优化][锂]lithium-fabric-mc1.16.2-0.5.2.jar  
-[非官方][优化][钠][与optifine不兼容]sodium-fabric-mc1.16.2-0.1.0-stable.jar.disabled  
+**不兼容，已关闭**[优化][锂]lithium-fabric-mc1.16.2-0.5.4.jar.disabled  
+[优化][钠][非官方]sodium-fabric-mc1.16.2-0.1.0-stable.jar  
 [优化][修复进服Invalid session错误]authme-1.16.2-1.3.1.jar  
 ### 其他mod
-[F7光照刷怪显示]light-overlay-5.5.0.jar  
+[F7光照刷怪显示]light-overlay-5.5.3.jar  
 [mod更新]modupdater-1.1.9+1.16.2.jar  
-[地毯]fabric-carpet-1.16.2-1.4.9+v200815.jar  
-[地毯拓展]carpet-extra-1.16.2-1.4.8.jar  
+[地毯]fabric-carpet-1.16.3-1.4.11+v200910.jar  
+[地毯拓展]carpet-extra-1.16.3-1.4.11.jar  
 [小地图]fabricmod_VoxelMap-1.10.10_for_1.16.2.jar  
 [急速滚轮]mousewheelie-1.5.3+mc1.16.2-pre1.jar  
-[放大镜,望远镜]WI-Zoom-1.2-MC1.16.2.jar  
+[放大镜,望远镜]WI-Zoom-1.2-MC1.16.3.jar  
 [显示饱和度][苹果皮]appleskin-mc1.16-fabric-1.0.11.jar  
-[更好的PvP]BetterPvP_20.20.3_Fabric_1.16.2.jar  
+[更好的PvP]BetterPvP_20.22.0_Fabric_1.16.3.jar  
 [更好的村民交易]easiervillagertrading-1.16.2-fabric0.17.2-1.5.2.jar  
-[更好的物品掉落(仅视觉)]betterdroppeditems-1.2.1-1.16.jar  
+[更好的物品掉落(仅视觉)]betterdroppeditems-1.2.2-1.16.2.jar  
 [模组设置菜单]modmenu-1.14.6+build.31.jar  
 [点歌][需要服务器配套插件]AllMusic-2.3.0(hotfix).jar  
 [背包整理]inventoryprofiles-fabric-1.16.2-0.4.2.jar  
