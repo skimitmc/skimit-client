@@ -8,6 +8,7 @@
   },
   "Generic": {
     "clientPlacementRotation": true,
+    "freeCameraPlayerInputs": false,
     "freeCameraPlayerMovement": false,
     "lavaVisibilityOptifineCompat": true,
     "handRestockPre": true,
@@ -41,7 +42,7 @@
     "flySpeedPreset2": 0.064,
     "flySpeedPreset3": 0.128,
     "flySpeedPreset4": 0.32,
-    "gammaOverrideValue": 16,
+    "gammaOverrideValue": 16.0,
     "hotbarSlotCycleMax": 2,
     "hotbarSlotRandomizerMax": 5,
     "hotbarSwapOverlayOffsetX": 4,
@@ -269,6 +270,18 @@
         "cancel": true
       }
     },
+    "freeCameraPlayerInputs": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
     "freeCameraPlayerMovement": {
       "keys": "",
       "settings": {
@@ -474,6 +487,18 @@
       }
     },
     "skipWorldRendering": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "swapElytraChestplate": {
       "keys": "",
       "settings": {
         "activate_on": "PRESS",
@@ -990,11 +1015,12 @@
     "tweakSignCopy": false,
     "tweakSnapAim": false,
     "tweakSnapAimLock": false,
+    "tweakSneak_1.15.2": false,
     "tweakSpectatorTeleport": false,
     "tweakStructureBlockLimit": false,
     "tweakSwapAlmostBrokenTools": false,
     "tweakTabCompleteCoordinate": true,
-    "tweakToolSwitch": true,
+    "tweakToolSwitch": false,
     "tweakYMirror": false,
     "tweakZoom": false
   },
@@ -1804,6 +1830,18 @@
       }
     },
     "tweakSnapAimLock": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "tweakSneak_1.15.2": {
       "keys": "",
       "settings": {
         "activate_on": "PRESS",

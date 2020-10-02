@@ -25,7 +25,7 @@
         "javaDir": "",
         "precalledCommand": "",
         "serverIp": "",
-        "java": "Default",
+        "java": "1.8.0_261",
         "wrapper": "",
         "fullscreen": false,
         "noJVMArgs": false,
@@ -35,11 +35,11 @@
         "gameDir": "",
         "launcherVisibility": 1,
         "gameDirType": 0,
-        "defaultJavaPath": ""
+        "defaultJavaPath": "C:\\Program Files\\Java\\jre1.8.0_261\\bin\\java.exe"
       },
       "gameDir": ".minecraft",
       "useRelativePath": true,
-      "selectedMinecraftVersion": "1.16.2-Fabric 0.9.2.206"
+      "selectedMinecraftVersion": "1.16.3-Fabric 0.10.0.208"
     },
     "Home": {
       "global": {
@@ -70,14 +70,7 @@
       "selectedMinecraftVersion": ""
     }
   },
-  "accounts": [
-    {
-      "uuid": "5f86ebd57b663ed18d58e0cc731886be",
-      "username": "测试",
-      "type": "offline",
-      "selected": true
-    }
-  ],
+  "accounts": [],
   "fontFamily": "Consolas",
   "fontSize": 12.0,
   "logLines": 500,

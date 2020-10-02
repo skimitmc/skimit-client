@@ -10,6 +10,10 @@
 		// Enables right-clicking in recipe books/villager trading to swiftly craft/trade.
 		// default: true
 		enable-quick-craft: true
+		// This option will treat the hotbar as a separate scope.
+		// This means that pushing the inventory or sorting the main inventory will not affect the hotbar and vice-versa.
+		// default: true
+		hotbar-scope: true
 	}
 	scrolling: {
 		// Enables scrolling of stacks

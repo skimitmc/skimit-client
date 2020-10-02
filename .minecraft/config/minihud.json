@@ -20,6 +20,7 @@
     "infoEntityRegistryName": 24,
     "infoFacing": 8,
     "infoFPS": 0,
+    "infoHoneyLevel": 37,
     "infoLightLevel": 10,
     "infoLookingAtBlock": 25,
     "infoLookingAtBlockInChunk": 26,
@@ -71,6 +72,7 @@
   },
   "Generic": {
     "beeTooltips": false,
+    "honeyTooltips": false,
     "enabled": true,
     "debugMessages": false,
     "debugRendererPathFindingEnablePointWidth": true,
@@ -195,6 +197,7 @@
     "infoEntityRegistryName": false,
     "infoFacing": false,
     "infoFPS": true,
+    "infoHoneyLevel": false,
     "infoLightLevel": false,
     "infoLookingAtBlock": false,
     "infoLookingAtBlockInChunk": false,
@@ -215,7 +218,7 @@
     "infoTimeIRL": false,
     "infoTimeTotalModulo": false,
     "infoTimeWorld": false,
-    "infoWorldTimeFormatted": false
+    "infoWorldTimeFormatted": true
   },
   "InfoHotkeys": {
     "infoBeeCount": {
@@ -447,6 +450,18 @@
       }
     },
     "infoFPS": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "infoHoneyLevel": {
       "keys": "",
       "settings": {
         "activate_on": "PRESS",

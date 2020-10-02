@@ -1,2 +1,2 @@
-dir /b *.*>ÎÄ¼þÃû.txt
+dir /b *.*>README.md
 pause

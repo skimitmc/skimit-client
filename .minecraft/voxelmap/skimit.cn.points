@@ -58,7 +58,6 @@ name:固化机,x:-363,z:523,y:70,enabled:true,red:0.79081583,green:0.9053242,blu
 name:na2hco3家,x:-37,z:523,y:119,enabled:true,red:0.27163643,green:0.43249822,blue:0.7492528,suffix:,world:skimit生存_主世界,dimensions:overworld#
 name:地铁1-1,x:-734,z:470,y:64,enabled:true,red:0.7382003,green:0.6693319,blue:3.117323E-5,suffix:,world:skimit生存_主世界,dimensions:overworld#
 name:太白家,x:-328,z:616,y:80,enabled:true,red:0.1420728,green:0.53197503,blue:0.13212407,suffix:,world:skimit生存_主世界,dimensions:overworld#
-name:Latest Death,x:4,z:-2,y:70,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:the_end#
 name:na2hco3家入口,x:-104,z:523,y:116,enabled:true,red:0.59616554,green:0.52437097,blue:0.5551287,suffix:,world:skimit生存_主世界,dimensions:overworld#
 name:EDGWA家,x:-872,z:-4,y:80,enabled:true,red:0.558401,green:0.073759556,blue:0.67222226,suffix:,world:skimit生存_主世界,dimensions:overworld#
 name:EDGW家,x:-720,z:384,y:128,enabled:true,red:0.27126968,green:0.8198437,blue:0.46872282,suffix:,world:skimit生存_下界,dimensions:the_nether#
@@ -70,3 +69,4 @@ name:地狱门1,x:-6400,z:4469,y:40,enabled:true,red:0.7078279,green:0.5220965,b
 name:地狱门2,x:-6213,z:4474,y:64,enabled:true,red:0.6637685,green:0.19443333,blue:0.9306567,suffix:,world:skimit镜像_主世界,dimensions:overworld#
 name:地狱门3,x:-6401,z:4325,y:41,enabled:true,red:0.038366377,green:0.15637219,blue:0.025645435,suffix:,world:,dimensions:overworld#
 name:地狱门4,x:-6219,z:4322,y:42,enabled:true,red:0.92536455,green:0.80037963,blue:0.9259645,suffix:,world:skimit镜像_主世界,dimensions:overworld#
+name:凋零骷髅塔选址,x:-6312,z:4392,y:53,enabled:true,red:0.29420722,green:0.61634356,blue:0.96480805,suffix:,world:skimit生存_下界,dimensions:the_nether#

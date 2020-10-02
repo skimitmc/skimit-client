@@ -920,6 +920,7 @@
     "enablePlacementBoxesRendering": true,
     "enableSchematicBlocksRendering": true,
     "enableSchematicOverlay": true,
+    "ignoreExistingFluids": false,
     "overlayReducedInnerSides": false,
     "renderAreaSelectionBoxSides": true,
     "renderBlocksAsTranslucent": false,
