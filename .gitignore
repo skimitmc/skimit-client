@@ -25,9 +25,6 @@ skimit*.zip
 # replaymod录像文件
 .minecraft/replay_recordings/  
 
-# 一键导入的整合包
-OK-import/
-
 # 其他东西
 .minecraft/*.png  
 .minecraft/realms_persistence.json  
