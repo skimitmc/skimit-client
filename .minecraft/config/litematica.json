@@ -13,6 +13,7 @@
   "Generic": {
     "areaSelectionsPerWorld": true,
     "changeSelectedCornerOnMove": true,
+    "debugLogging": false,
     "easyPlaceMode": false,
     "easyPlaceHoldEnabled": false,
     "executeRequireHoldingTool": true,

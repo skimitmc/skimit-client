@@ -2,6 +2,7 @@
   "Fixes": {
     "clientChunkEntityDupeFix": false,
     "elytraFix": false,
+    "macHorizontalScroll": false,
     "profilerChartFix": false,
     "ravagerClientBlockBreakFix": false,
     "tileEntityUnloadOptimization": false
@@ -12,6 +13,7 @@
     "freeCameraPlayerMovement": false,
     "lavaVisibilityOptifineCompat": true,
     "handRestockPre": true,
+    "hangableEntityBypassInverse": false,
     "permanentSneakAllowInGUIs": false,
     "placementRestrictionTiedToFast": true,
     "potionWarningBeneficialOnly": true,
@@ -43,6 +45,7 @@
     "flySpeedPreset3": 0.128,
     "flySpeedPreset4": 0.32,
     "gammaOverrideValue": 16.0,
+    "handRestockPreThreshold": 6,
     "hotbarSlotCycleMax": 2,
     "hotbarSlotRandomizerMax": 5,
     "hotbarSwapOverlayOffsetX": 4,
@@ -618,6 +621,8 @@
     ]
   },
   "DisableToggles": {
+    "disableArmorStandRendering": false,
+    "disableAxeStripping": false,
     "disableBlockBreakingParticles": false,
     "disableDoubleTapSprint": false,
     "disableBossFog": false,
@@ -630,21 +635,48 @@
     "disableInventoryEffectRendering": false,
     "disableItemSwitchRenderCooldown": false,
     "disableMobSpawnerMobRendering": false,
+    "disableNauseaEffect": false,
     "disableNetherFog": false,
     "disableObserver": false,
     "disableOffhandRendering": false,
     "disableParticles": false,
     "disablePortalGuiClosing": false,
     "disableRainEffects": false,
+    "disableRenderingScaffolding": false,
     "disableRenderDistanceFog": false,
     "disableSignGui": false,
     "disableSlimeBlockSlowdown": false,
     "disableTileEntityRendering": false,
     "disableTileEntityTicking": false,
     "disableVillagerTradeLocking": false,
-    "disableWallUnsprint": false
+    "disableWallUnsprint": false,
+    "disableWorldViewBob": false
   },
   "DisableHotkeys": {
+    "disableArmorStandRendering": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "disableAxeStripping": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
     "disableBlockBreakingParticles": {
       "keys": "",
       "settings": {
@@ -789,6 +821,18 @@
         "cancel": true
       }
     },
+    "disableNauseaEffect": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
     "disableNetherFog": {
       "keys": "",
       "settings": {
@@ -850,6 +894,18 @@
       }
     },
     "disableRainEffects": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "disableRenderingScaffolding": {
       "keys": "",
       "settings": {
         "activate_on": "PRESS",
@@ -944,6 +1000,18 @@
         "exclusive": false,
         "cancel": true
       }
+    },
+    "disableWorldViewBob": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
     }
   },
   "TweakToggles": {
@@ -979,6 +1047,7 @@
     "tweakFreeCamera": false,
     "tweakGammaOverride": false,
     "tweakHandRestock": true,
+    "tweakHangableEntityBypass": false,
     "tweakHoldAttack": false,
     "tweakHoldUse": false,
     "tweakHotbarScroll": false,
@@ -1398,6 +1467,18 @@
       }
     },
     "tweakHandRestock": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "tweakHangableEntityBypass": {
       "keys": "",
       "settings": {
         "activate_on": "PRESS",
