@@ -1,14 +1,18 @@
 {
-  "selectedProfile": "(Default)",
   "profiles": {
-    "(Default)": {
-      "name": "(Default)"
+    "PCL2": {
+      "icon": "Grass",
+      "name": "PCL2",
+      "lastVersionId": "latest-release",
+      "type": "latest-release",
+      "lastUsed": "2021-06-28T09:26:55+08:00"
     }
   },
-  "clientToken": "6833bb607ea34bfe99655910e0d68d39",
+  "selectedProfile": "PCL2",
+  "clientToken": "b414d78710e74585af1f2e840835967b",
   "authenticationDatabase": {
     "00000111112222233333444445555566": {
-      "accessToken": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3NmRhZTFmNTEwOTk1MjdjM2I2NmZhMGRmZGM1NTA5MiIsInlnZ3QiOiI4MTJkNGQ0ZDY5ZDc0YjYwODJhOWY3ZjBkMzdjZjU4MCIsInNwciI6ImM0ZDAyYjMyNzQwNjRmZDhiNzg3ZDU1ODM4NGY2MjNjIiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MDE3MTAwNzksImlhdCI6MTYwMTUzNzI3OX0.7O2qi1lrMxSnHAtTojt5kw23jTl4mBFiOmHFSIku_7c",
+      "accessToken": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3NmRhZTFmNTEwOTk1MjdjM2I2NmZhMGRmZGM1NTA5MiIsInlnZ3QiOiI0MmQ1NmE2NTUxOGU0MjJkOGJkZGQwM2JhZmVhYzgyMyIsInNwciI6ImM0ZDAyYjMyNzQwNjRmZDhiNzg3ZDU1ODM4NGY2MjNjIiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MjQ5NDU2MDcsImlhdCI6MTYyNDc3MjgwN30.F7U53Xh_x1v44rNAOdyEjIaRiuiuAj9DfBT-F2Hv4GA",
       "username": "2738345462@qq.com",
       "profiles": {
         "66666555554444433333222221111100": {

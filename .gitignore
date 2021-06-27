@@ -21,6 +21,8 @@ PCL/Pictures
 
 # 打包好的客户端文件
 skimit*.zip  
+skimit*.7z
+skimit*.tmp
 
 # replaymod录像文件
 .minecraft/replay_recordings/  
@@ -39,3 +41,4 @@ skimit*.zip
 .minecraft/shaderpacks/文件名.txt  
 .github/  
 .gitee/  
+按键设置.txt

@@ -74,3 +74,5 @@ name:猪人塔,x:3752,z:-2120,y:247,enabled:true,red:0.5071385,green:0.6581729,b
 name:wuhao家,x:-1123,z:1347,y:63,enabled:true,red:0.31449485,green:0.5927442,blue:0.7349985,suffix:,world:skimit生存_主世界,dimensions:overworld#
 name:xiaolou家,x:-2061,z:526,y:68,enabled:true,red:0.7459185,green:0.22949159,blue:0.307207,suffix:,world:skimit生存_主世界,dimensions:overworld#
 name:na2hco3家,x:-96,z:536,y:129,enabled:true,red:0.07742572,green:0.5680413,blue:0.31051528,suffix:,world:skimit生存_下界,dimensions:the_nether#
+name:甘蔗机,x:-336,z:409,y:67,enabled:true,red:0.52347136,green:0.67298734,blue:0.7932303,suffix:,world:skimit生存_主世界,dimensions:overworld#
+name:1号线-工业中心站,x:-333,z:425,y:68,enabled:true,red:0.2700237,green:0.73742294,blue:0.52494663,suffix:,world:skimit生存_主世界,dimensions:overworld#
