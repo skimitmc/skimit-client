@@ -1,5 +1,6 @@
 # [skimit服务器](http://skimit.cn/)客户端
-[下载](https://github.com/skimitmc/client/archive/master.zip)  
+[从GitHub下载](https://github.com/skimitmc/client/archive/master.zip)  
+中国用户可[使用GitHub Proxy下载](https://ghproxy.com/https://github.com/skimitmc/client/archive/master.zip)或[使用cnpm下载](https://github.com.cnpmjs.org/skimitmc/skimit-client/archive/refs/heads/master.zip)  
 [skimit服务器](http://skimit.cn/)客户端，整合了大量实用功能  
 当前[Minecraft](https://www.minecraft.net/)版本1.17  
 客户端版本1.17.0.0  
