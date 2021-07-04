@@ -1,6 +1,7 @@
 {
   "Colors": {
     "areaSelectionBoxSideColor": "#30FFFFFF",
+    "hightlightBlockInInventoryColor": "#30FF30FF",
     "materialListHudItemCountsColor": "#FFFFAA00",
     "schematicRebuildBreakPlaceOverlayColor": "#4C33CC33",
     "schematicRebuildBreakExceptPlaceOverlayColor": "#4CF03030",
@@ -18,9 +19,13 @@
     "easyPlaceHoldEnabled": false,
     "executeRequireHoldingTool": true,
     "fixRailRotation": true,
+    "highlightBlockInInventory": false,
+    "layerModeFollowsPlayer": false,
     "loadEntireSchematics": false,
     "pasteIgnoreInventories": false,
+    "pasteNbtRestoreBehavior": "none",
     "pickBlockEnabled": true,
+    "pickBlockShulkers": false,
     "placementRestriction": false,
     "renderMaterialListInGuis": true,
     "renderThreadNoTimeout": true,
@@ -890,6 +895,7 @@
   "InfoOverlays": {
     "blockInfoLinesEnabled": true,
     "blockInfoOverlayEnabled": true,
+    "infoOverlaysTargetFluids": false,
     "statusInfoHud": false,
     "statusInfoHudAuto": true,
     "verifierOverlayEnabled": true,

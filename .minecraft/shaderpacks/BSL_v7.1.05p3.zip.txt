@@ -1,6 +1,0 @@
-#Tue Aug 18 19:55:35 CST 2020
-BLOOM_STRENGTH=0.25
-DESATURATION=false
-LIGHT_SHAFT=false
-shadowDistance=512.0
-shadowMapResolution=4096
