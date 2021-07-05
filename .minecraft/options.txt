@@ -1,3 +1,4 @@
+
 version:2724
 autoJump:false
 autoSuggestions:true
@@ -6,7 +7,7 @@ chatLinks:true
 chatLinksPrompt:true
 enableVsync:false
 entityShadows:true
-forceUnicodeFont:false
+forceUnicodeFont:true
 discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:true
@@ -37,7 +38,7 @@ renderClouds:false
 resourcePacks:["vanilla","file/Faithful 1.17.zip","Fabric Mods","file/Masa模组_汉化资源包_V1.2.6 -1.16.2+.zip","file/3D.Default.1.17.v1.4.0.zip","file/XeKr 原版红石显示1.17-V1.zip","file/[地狱疣生长程度]Netherwart_Growth_Stage.zip","file/[彩色信号条]Colored_Ping_Indicator.zip"]
 incompatibleResourcePacks:["file/Masa模组_汉化资源包_V1.2.6 -1.16.2+.zip","file/[地狱疣生长程度]Netherwart_Growth_Stage.zip","file/[彩色信号条]Colored_Ping_Indicator.zip"]
 lastServer:huangxuanhao.com
-lang:zh_cn
+lang:zh_CN
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0

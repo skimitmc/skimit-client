@@ -1,18 +1,18 @@
 # [skimit服务器](http://skimit.cn/)客户端
-[从GitHub下载](https://github.com/skimitmc/client/archive/master.zip)  
-中国用户可[使用GitHub Proxy下载](https://ghproxy.com/https://github.com/skimitmc/client/archive/master.zip)或[使用cnpm下载](https://github.com.cnpmjs.org/skimitmc/skimit-client/archive/refs/heads/master.zip)  
+[从GitHub下载](https://github.com/skimitmc/client/archive/main.zip)  
+中国用户可[使用GitHub Proxy下载](https://ghproxy.com/https://github.com/skimitmc/client/archive/main.zip)或[使用cnpm下载](https://github.com.cnpmjs.org/skimitmc/skimit-client/archive/refs/heads/main.zip)  
 [skimit服务器](http://skimit.cn/)客户端，整合了大量实用功能  
 当前[Minecraft](https://www.minecraft.net/)版本1.17  
-客户端版本1.17.0.0  
+客户端版本1.17.0.1  
 [Fabric](https://fabricmc.net/) Loader版本0.11.6  
 **不包含资源文件**  
 如果想要更快下载或者包含资源文件，请到[QQ群597691030](https://jq.qq.com/?_wv=1027&k=5GAlEKg)内下载
 ***此客户端需要Java16运行，你可以到[这里](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html)下载对应版本***
 ## 目录
-- [mod列表](https://github.com/skimitmc/client/tree/master/.minecraft/mods)  
-- [资源包列表](https://github.com/skimitmc/client/tree/master/.minecraft/resourcepacks)
-- [光影包列表](https://github.com/skimitmc/client/tree/master/.minecraft/shaderpacks)
-- [投影原理图列表](https://github.com/skimitmc/client/tree/master/.minecraft/schematics)
+- [mod列表](https://github.com/skimitmc/client/tree/main/.minecraft/mods)  
+- [资源包列表](https://github.com/skimitmc/client/tree/main/.minecraft/resourcepacks)
+- [光影包列表](https://github.com/skimitmc/client/tree/main/.minecraft/shaderpacks)
+- [投影原理图列表](https://github.com/skimitmc/client/tree/main/.minecraft/schematics)
 ## skimit客户端已改用Iris提供光影支持，故不提供optifine
 ## 按键设置
 ### 原版
