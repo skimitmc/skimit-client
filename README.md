@@ -6,7 +6,7 @@
 客户端版本1.17.0.1  
 [Fabric](https://fabricmc.net/) Loader版本0.11.6  
 **不包含资源文件**  
-如果想要更快下载或者包含资源文件，请到[QQ群597691030](https://jq.qq.com/?_wv=1027&k=5GAlEKg)内下载
+如果想要更快下载或者包含资源文件，请到[QQ群597691030](https://jq.qq.com/?_wv=1027&k=5GAlEKg)内下载  
 ***此客户端需要Java16运行，你可以使用[AdoptOpenJDK](https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/16/jre/x64/)或[OracleJDK](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html)***
 ## 目录
 - [mod列表](https://github.com/skimitmc/client/tree/main/.minecraft/mods)  
