@@ -32,6 +32,30 @@ skimit*.tmp
 .minecraft/.fabric
 .minecraft/.mixin.out
 *.dll
+.minecraft/config/carpet*
+.minecraft/config/fabric
+.minecraft/config/litematica
+.minecraft/config/minihud
+.minecraft/config/multiconnect
+.minecraft/config/invmove.json
+.minecraft/config/lightoverlay.properties
+.minecraft/config/lithium.properties
+.minecraft/config/malilib.json
+.minecraft/config/modmenu.json
+.minecraft/config/mousewheelie.hjson
+.minecraft/config/notenoughcrashes.json
+.minecraft/config/okzoomer.json5
+.minecraft/config/quitconfirm.json
+.minecraft/config/rrp.properties
+.minecraft/config/smoothboot.json
+
+# 用不到的设置
+.minecraft/config/CSB
+.minecraft/config/BBOutlineReloaded.cfg
+.minecraft/config/replaymod*
+.minecraft/config/seamless_loading_screen.json
+.minecraft/config/sodium-extra-options.json
+.minecraft/config/worldeditcui.config.json
 
 # 其他东西
 *文件名.bat

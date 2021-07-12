@@ -1,7 +1,0 @@
-subworlds:
-oldNorthWorlds:
-seeds:
-name:生存,x:-195,z:59,y:75,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#
-name:主城,x:-6731,z:-6364,y:65,enabled:true,red:0.20159239,green:0.68781817,blue:0.035301805,suffix:,world:,dimensions:overworld#
-name:PVP,x:-4527,z:-4748,y:68,enabled:true,red:0.15401918,green:0.16644341,blue:0.81360066,suffix:,world:,dimensions:overworld#
-name:商店,x:-121,z:148,y:66,enabled:true,red:0.35349655,green:0.8998404,blue:0.45396656,suffix:,world:,dimensions:overworld#

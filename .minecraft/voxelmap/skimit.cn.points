@@ -76,3 +76,6 @@ name:xiaolou家,x:-2061,z:526,y:68,enabled:true,red:0.7459185,green:0.22949159,b
 name:na2hco3家,x:-96,z:536,y:129,enabled:true,red:0.07742572,green:0.5680413,blue:0.31051528,suffix:,world:skimit生存_下界,dimensions:the_nether#
 name:甘蔗机,x:-336,z:409,y:67,enabled:true,red:0.52347136,green:0.67298734,blue:0.7932303,suffix:,world:skimit生存_主世界,dimensions:overworld#
 name:1号线-工业中心站,x:-333,z:425,y:68,enabled:true,red:0.2700237,green:0.73742294,blue:0.52494663,suffix:,world:skimit生存_主世界,dimensions:overworld#
+name:Plants352039的基地,x:-1068,z:-53,y:68,enabled:true,red:0.62978613,green:0.71065897,blue:0.1997698,suffix:,world:skimit生存_主世界,dimensions:overworld#
+name:地狱上下层通道,x:-456,z:560,y:74,enabled:true,red:0.18641669,green:0.13084745,blue:0.55438244,suffix:,world:skimit生存_下界,dimensions:the_nether#
+name:wishi_的家,x:-16,z:-472,y:128,enabled:true,red:0.13959557,green:0.79999226,blue:0.102034986,suffix:,world:skimit生存_下界,dimensions:the_nether#

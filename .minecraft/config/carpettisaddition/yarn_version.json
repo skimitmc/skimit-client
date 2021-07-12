@@ -2,5 +2,9 @@
   {
     "minecraftVersion": "1.17",
     "yarnVersion": "1.17+build.13"
+  },
+  {
+    "minecraftVersion": "1.17.1",
+    "yarnVersion": "1.17.1+build.1"
   }
 ]

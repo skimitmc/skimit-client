@@ -35,11 +35,13 @@
         "gameDir": "",
         "launcherVisibility": 1,
         "gameDirType": 0,
-        "defaultJavaPath": "C:\\Program Files\\Java\\jre1.8.0_261\\bin\\java.exe"
+        "defaultJavaPath": "C:\\Program Files\\Java\\jre1.8.0_261\\bin\\java.exe",
+        "nativesDir": "",
+        "nativesDirType": 0
       },
       "gameDir": ".minecraft",
       "useRelativePath": true,
-      "selectedMinecraftVersion": "1.16.5-Fabric 0.11.6"
+      "selectedMinecraftVersion": "1.17.1-Fabric 0.11.6"
     },
     "Home": {
       "global": {
@@ -63,7 +65,9 @@
         "gameDir": "",
         "launcherVisibility": 1,
         "gameDirType": 0,
-        "defaultJavaPath": ""
+        "defaultJavaPath": "",
+        "nativesDir": "",
+        "nativesDirType": 0
       },
       "gameDir": "C:\\Users\\MAX_Xiaokui\\AppData\\Roaming\\.minecraft",
       "useRelativePath": false,
