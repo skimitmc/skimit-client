@@ -18,7 +18,7 @@ fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
-darkMojangStudiosBackground:false
+darkMojangStudiosBackground:true
 mouseSensitivity:0.5
 fov:0.25
 screenEffectScale:1.0
@@ -34,7 +34,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","file/XeKr 原版红石显示1.17-V1.zip","file/Colored_Ping_Indicator.zip","file/Minecraft-Mod-Language-Package-1.16.zip","file/AutoGamma.zip"]
+resourcePacks:["vanilla","Fabric Mods","file/XeKr 原版红石显示1.17-V1.zip","file/Colored_Ping_Indicator.zip","file/Dramatic Skys Demo 1.2.zip","file/Minecraft-Mod-Language-Package-1.16.zip","file/AutoGamma.zip","file/Masa_汉化资源包V2a [1.12-1.17].zip"]
 incompatibleResourcePacks:["file/Colored_Ping_Indicator.zip","file/Minecraft-Mod-Language-Package-1.16.zip","file/AutoGamma.zip"]
 lastServer:skimit.cn
 lang:zh_cn
@@ -58,7 +58,7 @@ mipmapLevels:4
 useNativeTransport:true
 mainHand:right
 attackIndicator:2
-narrator:2
+narrator:0
 tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
@@ -105,10 +105,11 @@ key_key.hotbar.9:key.keyboard.9
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
+key_key.entityculling.toggle:key.keyboard.unknown
 key_key.custom-crosshair-mod.edit_crosshair:key.keyboard.grave.accent
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
-key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_key.autofish.open_gui:key.keyboard.unknown
 key_key.waila.config:key.keyboard.unknown
 key_key.waila.show_overlay:key.keyboard.unknown
@@ -116,7 +117,6 @@ key_key.waila.toggle_liquid:key.keyboard.unknown
 key_key.waila.show_recipe_input:key.keyboard.unknown
 key_key.waila.show_recipe_output:key.keyboard.unknown
 key_key.orderly.toggle:key.keyboard.unknown
-key_key.lightoverlay.enable_overlay:key.keyboard.f7
 key_key.okzoomer.zoom:key.keyboard.c
 key_key.okzoomer.decrease_zoom:key.keyboard.unknown
 key_key.okzoomer.increase_zoom:key.keyboard.unknown
@@ -142,7 +142,7 @@ soundCategory_hostile:0.05
 soundCategory_neutral:0.1
 soundCategory_player:1.0
 soundCategory_ambient:0.1
-soundCategory_voice:0.2
+soundCategory_voice:0.20422535
 modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true

@@ -1,8 +1,6 @@
 
 # Configuration for async io system
 [asyncIO]
-	# (Default: 8) unused
-	ioWorkerParallelism = 8
 	# (Default: 2) IO worker executor parallelism
 	serializerParallelism = 2
 	# (Default: true) Whether to enable this feature
@@ -13,7 +11,7 @@
 	# (Default: false) Whether to allow feature generation (world decorations like trees, ores and etc.) run in parallel 
 	# (may cause incompatibility with other mods)
 	allowThreadedFeatures = false
-	# (Default: 6) World generation worker executor parallelism
+	# (Default: 2) World generation worker executor parallelism
 	parallelism = 6
 	# (Default: false) Whether to allow reducing lock radius (faster but UNSAFE) (YOU HAVE BEEN WARNED) 
 	# (may cause incompatibility with other mods)

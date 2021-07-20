@@ -1,20 +1,19 @@
 # PCL启动器部分文件
 PCL/log*.txt
-PCL/Music
+PCL/Musics
 PCL/Pictures
 
 # 日志文件
 .minecraft/logs
 
-# 崩溃报告
+# 崩溃
 .minecraft/crash-reports
+.minecraft/not-enough-crashes
+*dump
+*.dmp
 
 # 存档
 .minecraft/saves
-
-# masa的部分mod的临时文件
-.minecraft/config/litematica
-.minecraft/config/minihud
 
 # 打包的客户端文件
 skimit*.zip
@@ -29,15 +28,24 @@ skimit*.tmp
 .minecraft/libraries
 .minecraft/*.png
 .minecraft/realms_persistence.json
+.minecraft/usercache.json
 .minecraft/.fabric
 .minecraft/.mixin.out
+.minecraft/iemscroller
 *.dll
+.minecraft/config/appleskin.json5
+.minecraft/config/authme.json5
+.minecraft/config/autofish.config
+.minecraft/config/betterf3.json
 .minecraft/config/carpet*
-.minecraft/config/fabric
+.minecraft/config/cameraoverhaul.json
+.minecraft/config/fabric/
 .minecraft/config/litematica
 .minecraft/config/minihud
 .minecraft/config/multiconnect
+.minecraft/config/inventoryprofilesnext/lockSlots.txt
 .minecraft/config/invmove.json
+.miencraft/config/itemscroller.json
 .minecraft/config/lightoverlay.properties
 .minecraft/config/lithium.properties
 .minecraft/config/malilib.json
@@ -48,13 +56,16 @@ skimit*.tmp
 .minecraft/config/quitconfirm.json
 .minecraft/config/rrp.properties
 .minecraft/config/smoothboot.json
+.minecraft/config/sodium-mixins.properties
+.minecraft/config/tweed.hjson
 
-# 用不到的设置
+# 用不到的
 .minecraft/config/CSB
 .minecraft/config/BBOutlineReloaded.cfg
 .minecraft/config/replaymod*
 .minecraft/config/seamless_loading_screen.json
 .minecraft/config/sodium-extra-options.json
+.miencraft/config/waila.json_old
 .minecraft/config/worldeditcui.config.json
 
 # 其他东西

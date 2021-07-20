@@ -71,6 +71,7 @@
     "textColor": "#00E0E0E0"
   },
   "Generic": {
+    "axolotlTooltipsTooltips": false,
     "beeTooltips": false,
     "honeyTooltips": false,
     "enabled": true,
@@ -154,11 +155,11 @@
     "blockGridOverlayMode": "all",
     "lightLevelMarkers": "square",
     "lightLevelNumbers": "block",
-    "hudAlignment": "top_right",
+    "hudAlignment": "top_left",
     "blockGridOverlayRadius": 32,
     "coordinateFormat": "x: %.1f y: %.1f z: %.1f",
     "dateFormatReal": "yyyy-MM-dd HH:mm:ss",
-    "dateFormatMinecraft": "MC time: (day {DAY}) {HOUR}:{MIN}:xx",
+    "dateFormatMinecraft": "MC time: (day {DAY}) {HOUR}:{MIN}",
     "fontScale": 1.0,
     "lightLevelMarkerSize": 0.84,
     "lightLevelNumberOffsetBlockX": 0.26,
@@ -171,7 +172,7 @@
     "mapPreviewSize": 160,
     "slimeChunkOverlayRadius": -1,
     "spawnableColumnHeightsOverlayRadius": 40,
-    "textPosX": 4,
+    "textPosX": 150,
     "textPosY": 4,
     "timeDayDivisor": 24000,
     "timeTotalDivisor": 24000
@@ -234,7 +235,7 @@
       }
     },
     "infoBiome": {
-      "keys": "",
+      "keys": "B",
       "settings": {
         "activate_on": "PRESS",
         "context": "INGAME",
@@ -618,7 +619,7 @@
       }
     },
     "infoSlimeChunk": {
-      "keys": "",
+      "keys": "B",
       "settings": {
         "activate_on": "PRESS",
         "context": "INGAME",
@@ -727,6 +728,7 @@
     }
   },
   "RendererToggles": {
+    "debugChunkBorder": false,
     "debugChunkInfo": false,
     "debugChunkOcclusion": false,
     "debugCollisionBoxEnabled": false,
@@ -747,6 +749,18 @@
     "shapeRenderer": false
   },
   "RendererHotkeys": {
+    "debugChunkBorder": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
     "debugChunkInfo": {
       "keys": "",
       "settings": {
@@ -844,7 +858,7 @@
       }
     },
     "overlayLightLevel": {
-      "keys": "",
+      "keys": "F7",
       "settings": {
         "activate_on": "PRESS",
         "context": "INGAME",
@@ -916,7 +930,7 @@
       }
     },
     "overlaySpawnChunkReal": {
-      "keys": "",
+      "keys": "B",
       "settings": {
         "activate_on": "PRESS",
         "context": "INGAME",
@@ -940,7 +954,7 @@
       }
     },
     "overlayStructureMainToggle": {
-      "keys": "",
+      "keys": "B",
       "settings": {
         "activate_on": "PRESS",
         "context": "INGAME",

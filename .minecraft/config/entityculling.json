@@ -1,5 +1,5 @@
 {
-  "configVersion": 3,
+  "configVersion": 4,
   "renderNametagsThroughWalls": true,
   "blockEntityWhitelist": [
     "create:rope_pulley",
@@ -11,8 +11,10 @@
   "debugMode": false,
   "sleepDelay": 10,
   "hitboxLimit": 50,
+  "skipMarkerArmorStands": true,
   "tickCulling": true,
   "tickCullingWhitelist": [
-    "minecraft:firework_rocket"
+    "minecraft:firework_rocket",
+    "minecraft:boat"
   ]
 }

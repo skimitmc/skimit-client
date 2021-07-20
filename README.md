@@ -1,9 +1,9 @@
 # [skimit服务器](http://skimit.cn/)客户端
 [skimit服务器](http://skimit.cn/)客户端，整合了大量实用功能  
 当前[Minecraft](https://www.minecraft.net/)版本1.17.1  
-客户端版本1.17.1.0  
+客户端版本1.17.1.1  
 [Fabric](https://fabricmc.net/) Loader版本0.11.6  
-
+NEW: 你可以在游戏和输入间切换而不需要切换输入法
 ## 下载
 [从GitHub下载](https://github.com/skimitmc/client/archive/main.zip)  
 中国用户可[使用GitHub Proxy下载](https://ghproxy.com/https://github.com/skimitmc/client/archive/main.zip)或[使用cnpm下载](https://github.com.cnpmjs.org/skimitmc/skimit-client/archive/refs/heads/main.zip)  
@@ -17,12 +17,9 @@
 - [mod列表](https://github.com/skimitmc/client/tree/main/.minecraft/mods)  
 - [资源包列表](https://github.com/skimitmc/client/tree/main/.minecraft/resourcepacks)
 - [光影包列表](https://github.com/skimitmc/client/tree/main/.minecraft/shaderpacks)
-## skimit客户端已改用Iris提供光影支持，故不提供optifine
 ## 按键设置
 ### 原版
 - 打开聊天栏：`Enter`
-### Iris
-- 光影开关: `K`
 ### Voxelmap
 - 小地图：`R`
 ### OK Zoomer
@@ -35,9 +32,11 @@
 - 右键长按（AFK）：`右Alt+R`
 - 伪潜行开关：`左Alt+S`
 - 自动切换工具开关：`左Alt+T`
+- 亮度增强开关：`G`
 ### Litematica（投影）
 - 打开菜单：`M`
 - 轻松放置开关：`左Alt+P`
 - 执行操作：`左Alt+O`
-### Light Overlay
-- 刷怪区域（亮度≤7的实心方块）：`F7`
+### MiniHUD
+- 显示地面亮度开关：`F7`
+- 显示部分结构：`B`

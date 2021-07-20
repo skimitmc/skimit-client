@@ -1,1 +1,13 @@
-{"selectedProfile": "(Default)","profiles": {"(Default)": {"name": "(Default)"}},"clientToken": "88888888-8888-8888-8888-888888888888"}
+{
+    "profiles":  {
+        "PCL2": {
+            "icon": "Grass",
+            "name": "PCL2",
+            "lastVersionId": "latest-release",
+            "type": "latest-release",
+            "lastUsed": "2021-07-20T17:09:52.0000Z"
+        }
+    },
+    "selectedProfile": "PCL2",
+    "clientToken": "23323323323323323323323323323333"
+}

@@ -7,7 +7,7 @@
   },
   "Generic": {
     "clientPlacementRotation": true,
-    "freeCameraPlayerInputs": false,
+    "freeCameraPlayerInputs": true,
     "freeCameraPlayerMovement": false,
     "lavaVisibilityOptifineCompat": true,
     "handRestockPre": true,
@@ -1071,7 +1071,7 @@
     "tweakFlySpeed": false,
     "tweakFlexibleBlockPlacement": false,
     "tweakFreeCamera": false,
-    "tweakGammaOverride": false,
+    "tweakGammaOverride": true,
     "tweakHandRestock": true,
     "tweakHangableEntityBypass": false,
     "tweakHoldAttack": false,
