@@ -3,8 +3,9 @@ PCL/log*.txt
 PCL/Musics
 PCL/Pictures
 
-# 日志文件
+# 日志和缓存
 .minecraft/logs
+.minecraft/.replay_cache
 
 # 崩溃
 .minecraft/crash-reports
@@ -29,8 +30,10 @@ skimit*.tmp
 .minecraft/*.png
 .minecraft/realms_persistence.json
 .minecraft/usercache.json
+.minecraft/.bobby
 .minecraft/.fabric
 .minecraft/.mixin.out
+.minecraft/.optifine
 .minecraft/iemscroller
 *.dll
 .minecraft/config/appleskin.json5
@@ -45,7 +48,7 @@ skimit*.tmp
 .minecraft/config/multiconnect
 .minecraft/config/inventoryprofilesnext/lockSlots.txt
 .minecraft/config/invmove.json
-.miencraft/config/itemscroller.json
+.minecraft/config/itemscroller.json
 .minecraft/config/lightoverlay.properties
 .minecraft/config/lithium.properties
 .minecraft/config/malilib.json
@@ -58,6 +61,8 @@ skimit*.tmp
 .minecraft/config/smoothboot.json
 .minecraft/config/sodium-mixins.properties
 .minecraft/config/tweed.hjson
+.minecraft/not-enough-crashes
+.minecraft/patched_shaders
 
 # 用不到的
 .minecraft/config/CSB
@@ -65,7 +70,7 @@ skimit*.tmp
 .minecraft/config/replaymod*
 .minecraft/config/seamless_loading_screen.json
 .minecraft/config/sodium-extra-options.json
-.miencraft/config/waila.json_old
+.minecraft/config/waila/waila.json_old
 .minecraft/config/worldeditcui.config.json
 
 # 其他东西

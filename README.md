@@ -1,7 +1,7 @@
 # [skimit服务器](http://skimit.cn/)客户端
 [skimit服务器](http://skimit.cn/)客户端，整合了大量实用功能  
 当前[Minecraft](https://www.minecraft.net/)版本1.17.1  
-客户端版本1.17.1.1  
+客户端版本1.17.1.2  
 [Fabric](https://fabricmc.net/) Loader版本0.11.6  
 NEW: 你可以在游戏和输入间切换而不需要切换输入法
 ## 下载
@@ -11,12 +11,13 @@ NEW: 你可以在游戏和输入间切换而不需要切换输入法
 如果想要更快下载或者包含资源文件，请到[QQ群597691030](https://jq.qq.com/?_wv=1027&k=5GAlEKg)内下载  
 ## 安装与升级
 ***此客户端需要Java16运行，你可以使用[AdoptOpenJDK](https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/16/jre/x64/)或[OracleJDK](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html)***  
-安装：解压全部文件  
-升级：解压并覆盖原文件  你可以选择性地不覆盖config文件夹、options.txt文件、servers.dat文件
+- **安装**：解压全部文件  
+- **升级**：解压并覆盖原文件  你可以选择性地不覆盖config文件夹、options.txt文件、servers.dat文件
 ## 目录
-- [mod列表](https://github.com/skimitmc/client/tree/main/.minecraft/mods)  
-- [资源包列表](https://github.com/skimitmc/client/tree/main/.minecraft/resourcepacks)
-- [光影包列表](https://github.com/skimitmc/client/tree/main/.minecraft/shaderpacks)
+- [MOD](https://github.com/skimitmc/client/tree/main/.minecraft/mods)  
+- [资源包](https://github.com/skimitmc/client/tree/main/.minecraft/resourcepacks)
+- [光影包](https://github.com/skimitmc/client/tree/main/.minecraft/shaderpacks)
+- [投影原理图](https://github.com/skimitmc/client/tree/main/.minecraft/schematics)
 ## 按键设置
 ### 原版
 - 打开聊天栏：`Enter`
