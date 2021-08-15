@@ -1,0 +1,28 @@
+{
+  "profiles": {
+    "PCL2": {
+      "icon": "Grass",
+      "name": "PCL2",
+      "lastVersionId": "latest-release",
+      "type": "latest-release",
+      "lastUsed": "2021-07-21T01:09:52+08:00"
+    }
+  },
+  "selectedProfile": "PCL2",
+  "clientToken": "b414d78710e74585af1f2e840835967b",
+  "authenticationDatabase": {
+    "00000111112222233333444445555566": {
+      "accessToken": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3NmRhZTFmNTEwOTk1MjdjM2I2NmZhMGRmZGM1NTA5MiIsInlnZ3QiOiJmZGRjODc1NWVjM2Y0NDQ2YjNjNmMzMjY4ZWZhNjk0MyIsInNwciI6ImM0ZDAyYjMyNzQwNjRmZDhiNzg3ZDU1ODM4NGY2MjNjIiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MjkxODYwNzIsImlhdCI6MTYyOTAxMzI3Mn0.adIPxojKeLYhStpHiOAbfTZxJfFLfbRrEFzGzpgDzc8",
+      "username": "2738345462@qq.com",
+      "profiles": {
+        "66666555554444433333222221111100": {
+          "displayName": "MAX_XiaoKui"
+        }
+      }
+    }
+  },
+  "selectedUser": {
+    "account": "00000111112222233333444445555566",
+    "profile": "66666555554444433333222221111100"
+  }
+}

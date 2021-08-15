@@ -1,7 +1,7 @@
 # [skimit服务器](http://skimit.cn/)客户端
 [skimit服务器](http://skimit.cn/)客户端，整合了大量实用功能  
 当前[Minecraft](https://www.minecraft.net/)版本1.17.1  
-客户端版本756.0.3  
+客户端版本756.0.4  
 [Fabric](https://fabricmc.net/) Loader版本0.11.6  
 NEW: 你可以在游戏和输入间切换而不需要切换输入法
 ## 下载
