@@ -33,15 +33,15 @@
         "notCheckJVM": false,
         "showLogs": false,
         "gameDir": "",
-        "launcherVisibility": 1,
-        "gameDirType": 0,
+        "launcherVisibility": 2,
+        "gameDirType": 1,
         "defaultJavaPath": "C:\\Program Files\\Java\\jre1.8.0_261\\bin\\java.exe",
         "nativesDir": "",
         "nativesDirType": 0
       },
       "gameDir": ".minecraft",
       "useRelativePath": true,
-      "selectedMinecraftVersion": "1.17.1-Fabric 0.11.6"
+      "selectedMinecraftVersion": "skimit-756.0.3"
     },
     "Home": {
       "global": {

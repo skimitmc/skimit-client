@@ -4,17 +4,21 @@ PCL/Musics
 PCL/Pictures
 
 # 日志和缓存
-.minecraft/logs
-.minecraft/.replay_cache
+.minecraft/versions/skimit-*/logs
+*.log*
+.minecraft/versions/skimit-*/.replay_cache
 
 # 崩溃
-.minecraft/crash-reports
-.minecraft/not-enough-crashes
+.minecraft/versions/skimit-*/crash-reports
+.minecraft/versions/skimit-*/not-enough-crashes
 *dump
 *.dmp
 
+# 备份的文件
+*_old
+
 # 存档
-.minecraft/saves
+.minecraft/versions/skimit-*/saves
 
 # 打包的客户端文件
 skimit*.zip
@@ -22,58 +26,61 @@ skimit*.7z
 skimit*.tmp
 
 # replaymod录像文件
-.minecraft/replay_recordings
+.minecraft/versions/skimit-*/replay_recordings
 
 # 可以自动生成的
 .minecraft/assets
 .minecraft/libraries
-.minecraft/*.png
-.minecraft/realms_persistence.json
-.minecraft/usercache.json
-.minecraft/.bobby
-.minecraft/.fabric
-.minecraft/.mixin.out
-.minecraft/.optifine
-.minecraft/iemscroller
+.minecraft/versions/skimit-*/*.png
+.minecraft/versions/skimit-*/realms_persistence.json
+.minecraft/versions/skimit-*/usercache.json
+.minecraft/versions/skimit-*/.bobby
+.minecraft/versions/skimit-*/.fabric
+.minecraft/versions/skimit-*/.mixin.out
+.minecraft/versions/skimit-*/.optifine
+.minecraft/versions/skimit-*/itemscroller
 *.dll
-.minecraft/config/appleskin.json5
-.minecraft/config/authme.json5
-.minecraft/config/autofish.config
-.minecraft/config/betterf3.json
-.minecraft/config/carpet*
-.minecraft/config/cameraoverhaul.json
-.minecraft/config/fabric/
-.minecraft/config/litematica
-.minecraft/config/minihud
-.minecraft/config/multiconnect
-.minecraft/config/inventoryprofilesnext/lockSlots.txt
-.minecraft/config/invmove.json
-.minecraft/config/itemscroller.json
-.minecraft/config/lightoverlay.properties
-.minecraft/config/lithium.properties
-.minecraft/config/malilib.json
-.minecraft/config/modmenu.json
-.minecraft/config/mousewheelie.hjson
-.minecraft/config/notenoughcrashes.json
-.minecraft/config/okzoomer.json5
-.minecraft/config/quitconfirm.json
-.minecraft/config/rrp.properties
-.minecraft/config/smoothboot.json
-.minecraft/config/sodium-mixins.properties
-.minecraft/config/tweed.hjson
-.minecraft/not-enough-crashes
-.minecraft/patched_shaders
+.minecraft/versions/skimit-*/config/appleskin.json5
+.minecraft/versions/skimit-*/config/authme.json5
+.minecraft/versions/skimit-*/config/autofish.config
+.minecraft/versions/skimit-*/config/betterf3.json
+.minecraft/versions/skimit-*/config/carpet*
+.minecraft/versions/skimit-*/config/cameraoverhaul.json
+.minecraft/versions/skimit-*/config/fabric/
+.minecraft/versions/skimit-*/config/litematica
+.minecraft/versions/skimit-*/config/minihud
+.minecraft/versions/skimit-*/config/multiconnect
+.minecraft/versions/skimit-*/config/inventoryprofilesnext/lockSlots.txt
+.minecraft/versions/skimit-*/config/invmove.json
+.minecraft/versions/skimit-*/config/itemscroller.json
+.minecraft/versions/skimit-*/config/lightoverlay.properties
+.minecraft/versions/skimit-*/config/lithium.properties
+.minecraft/versions/skimit-*/config/malilib.json
+.minecraft/versions/skimit-*/config/modmenu.json
+.minecraft/versions/skimit-*/config/mousewheelie.hjson
+.minecraft/versions/skimit-*/config/notenoughcrashes.json
+.minecraft/versions/skimit-*/config/okzoomer.json5
+.minecraft/versions/skimit-*/config/quitconfirm.json
+.minecraft/versions/skimit-*/config/rrp.properties
+.minecraft/versions/skimit-*/config/smoothboot.json
+.minecraft/versions/skimit-*/config/sodium-mixins.properties
+.minecraft/versions/skimit-*/config/tweed.hjson
+.minecraft/versions/skimit-*/CustomSkinLoader/ExtraList
+.minecraft/versions/skimit-*/CustomSkinLoader/LocalSkin
+.minecraft/versions/skimit-*/CustomSkinLoader/ProfileCache
+.minecraft/versions/skimit-*/CustomSkinLoader/ExtraList
+.minecraft/versions/skimit-*/CustomSkinLoader/CustomSkinAPIPlus-ClientID
+.minecraft/versions/skimit-*/CustomSkinLoader/ExtraList
+.minecraft/versions/skimit-*/not-enough-crashes
+.minecraft/versions/skimit-*/patched_shaders
 
 # 用不到的
-.minecraft/config/CSB
-.minecraft/config/BBOutlineReloaded.cfg
-.minecraft/config/replaymod*
-.minecraft/config/seamless_loading_screen.json
-.minecraft/config/sodium-extra-options.json
-.minecraft/config/waila/waila.json_old
-.minecraft/config/worldeditcui.config.json
+.minecraft/versions/skimit-*/baritone
+.minecraft/versions/skimit-*/config/CSB
+.minecraft/versions/skimit-*/config/worldeditcui.config.json
+
+# Java安装包
+*.msi
 
 # 其他东西
-*文件名.bat
-*文件名.txt
-从旧版本更新.txt
+/*.txt
