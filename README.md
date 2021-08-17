@@ -1,12 +1,11 @@
 # [skimit服务器](http://skimit.cn/)客户端
 [skimit服务器](http://skimit.cn/)客户端，整合了大量实用功能  
 当前[Minecraft](https://www.minecraft.net/)版本1.17.1  
-客户端版本756.0.4  
-[Fabric](https://fabricmc.net/) Loader版本0.11.6  
-NEW: 你可以在游戏和输入间切换而不需要切换输入法
+客户端版本756.1.0  
+[Fabric](https://fabricmc.net/) Loader版本0.11.6
 ## 下载
-[从GitHub下载](https://github.com/skimitmc/client/archive/main.zip)  
-中国用户可[使用GitHub Proxy下载](https://ghproxy.com/https://github.com/skimitmc/client/archive/main.zip)或[使用cnpm下载](https://github.com.cnpmjs.org/skimitmc/skimit-client/archive/refs/heads/main.zip)  
+[到Release页下载](https://github.com/skimitmc/client/releases)（选择Assets中的Source Code下载）  
+中国用户可[使用cnpm下载](https://github.com.cnpmjs.org/skimitmc/skimit-client/releases)  
 **不包含资源文件**  
 如果想要更快下载或者包含资源文件，请到[QQ群597691030](https://jq.qq.com/?_wv=1027&k=5GAlEKg)内下载  
 ## 安装与升级
@@ -28,6 +27,7 @@ NEW: 你可以在游戏和输入间切换而不需要切换输入法
 - 放大镜：`C`（放大时用鼠标滚轮可以调整放大倍数）
 ### Iris
 - 光影开关：`K`
+- 光影选择：`T`
 ### Tweakeroo
 - 灵魂出窍：`O`
 - 左键连点：`左Alt+L`

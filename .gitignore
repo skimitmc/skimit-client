@@ -65,6 +65,7 @@ skimit*.tmp
 .minecraft/versions/skimit-*/config/smoothboot.json
 .minecraft/versions/skimit-*/config/sodium-mixins.properties
 .minecraft/versions/skimit-*/config/tweed.hjson
+.minecraft/versions/skimit-*/config/roughlyenoughitems
 .minecraft/versions/skimit-*/CustomSkinLoader/ExtraList
 .minecraft/versions/skimit-*/CustomSkinLoader/LocalSkin
 .minecraft/versions/skimit-*/CustomSkinLoader/ProfileCache
