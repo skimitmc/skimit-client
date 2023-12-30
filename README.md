@@ -1,5 +1,6 @@
-# [skimit服务器](http://skimit.cn/)客户端
-[skimit服务器](http://skimit.cn/)客户端，整合了大量实用功能  
+# [skimit服务器](https://skimit.net/)客户端
+# 此客户端版本已过时，你可以使用黑山大叔等人的客户端整合包
+[skimit服务器](https://skimit.net/)客户端，整合了大量实用功能  
 当前[Minecraft](https://www.minecraft.net/)版本1.17.1  
 客户端版本756.1.0  
 [Fabric](https://fabricmc.net/) Loader版本0.11.6
